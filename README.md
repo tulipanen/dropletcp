@@ -1,4 +1,4 @@
-# dropletcp
+# Copy and paste for droplet console
 
 This is a handy little script for those who are using DigitalOcean's servers and are unable to 'Copy & Paste' to the console of their droplet. 
 
