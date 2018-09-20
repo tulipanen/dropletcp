@@ -1,3 +1,7 @@
+### Disclaimer
+As of August 14th 2018, this script is no longer needed. See Digital Ocean's [Release Notes.](https://www.digitalocean.com/docs/release-notes/)
+>The Droplet console now supports pasting information into the console. 
+
 ## Description
 This is a handy little script for those who are using DigitalOcean's servers and are unable to 'Copy & Paste' to the console of their droplet. 
 
